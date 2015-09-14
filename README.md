@@ -21,17 +21,17 @@ NPM, Babel, Bowcat, HTTP-server, Jade, Node-Sass, Nodemon, jQuery, BootStrap, lo
 ````npm install -g bower````
 
 *In your browser, navigate to:*
->https://github.com/ldmcdaniel/firebase-auth-demo
+>https://github.com/ldmcdaniel/firebase-demo
 
 *In the top-right corner of the page, click Fork.*
 
 *In your designated code directory, type:*
 
-````git clone https://github.com/Your-Username/firebase-auth-demo````
+````git clone https://github.com/Your-Username/firebase-demo````
 
 *From Terminal:*
 
-````cd firebase-auth-demo/````
+````cd firebase-demo/````
 
 ````npm install````
 
